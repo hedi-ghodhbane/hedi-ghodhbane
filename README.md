@@ -1,20 +1,20 @@
 <h3 title="hehehe"> Hey 👋, I'm hedi!</h3>
 
 <a href="https://www.linkedin.com/in/hedi-gh/">
-  LinkedIn
+
   <img align="left" alt="hedi's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
+
 <a href="https://www.upwork.com/freelancers/~01f5b1089b299442d7/">
-  Upwork
+ 
   <img align="left" alt="hedi's upwork" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />
 </a>
-<br />
+
 <a href="https://hedighodhbane08.medium.com/">
-  Medium
+ 
   <img align="left" alt="hedi's medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<br />
+
 
 
 

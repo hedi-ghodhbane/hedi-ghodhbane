@@ -1,12 +1,12 @@
 <h3 title="hehehe"> Hey 👋, I'm hedi!</h3>
 
-<a href=https://www.linkedin.com/in/hedi-gh/">
+<a href="https://www.linkedin.com/in/hedi-gh/">
   <img align="left" alt="hedi's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href=https://www.upwork.com/freelancers/~01f5b1089b299442d7/">
+<a href="https://www.upwork.com/freelancers/~01f5b1089b299442d7/">
   <img align="left" alt="hedi's upwork" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />
 </a>                                                                                                                        
-<a href=https://hedighodhbane08.medium.com/">
+<a href="https://hedighodhbane08.medium.com/">
   <img align="left" alt="hedi's medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
